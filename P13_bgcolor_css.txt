@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Practical 13</title>
+</head>
+<body bgcolor="cadetblue">
+    <h1 style="background-color:darkseagreen;text-align: center;">Welcome to SSBT</h1>
+    <hr>
+    <p>
+        Welcome to the world of SSBT<br>
+    FY BCA<br>
+    Thank You!
+    </p> 
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <title>Practicle 6</title>
+</head>
+<body bgcolor="black">
+     <h1 style="text-align:center;color:chartreuse">Let's Learn Linking</h1><br>
+     <h2 style="color:crimson">There are two types of linking:</h2><br>
+     <h2 style="color:blue"><strong>Internal</strong></h2><br>
+     <div>
+        <a href="https://www.linkedin.com/in/vaishnavi-varade-a250b0252/">
+         Linkedin   
+        </a>
+     </div>
+     <div>
+        <a href="https://github.com/Vaishnavivarade">
+         Github  
+        </a> 
+     </div><br>
+     <h2 style="color:blue"><strong>External</strong></h2><br>
+     <h2 style="color: crimson;">Target Attributes use look</h2><br>
+     <div>
+        <a href="https://chrome.google.com/webstore/detail/open-link-in-same-tab-pop
+        /jmphljmgnagblkombahigniilhnbadca?hl=en">
+         Google in the same tab  
+        </a>
+     </div>
+     <div>
+        <a href="https://support.google.com/a/users/answer/10392467?hl=en">
+         Google in the different tab
+        </a>
+     </div>  
+</body>
+</html>

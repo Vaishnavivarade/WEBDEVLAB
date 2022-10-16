@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <title>Practical 5</title>
+</head>
+<body bgcolor="purple">
+     <h1 style="color:gold;text-align:center;">"Let's Learn HTML Lists"</h1>
+     <hr>
+     <h2 style="color:red;">Ordered Lists:</h2>
+     <!--ordered list -->
+     <!-- default -->
+     <ol>
+        <li>Cricket</li>
+        <li>Kabaddi</li>
+        <li>Kho-Kho</li>
+     </ol>
+     <!-- capital alphabet -->
+     <ol type="A">
+        <li>Cricket</li>
+        <li>Kabaddi</li>
+        <li>Kho-Kho</li>
+     </ol>
+     <!-- small alphabet -->
+     <ol type="a">
+        <li>Cricket</li>
+        <li>Kabaddi</li>
+        <li>Kho-KHO</li>
+     </ol>
+     <!-- capital roman -->
+     <ol type="I">
+        <li>Cricket</li>
+        <li>Kabbadi</li>
+        <li>Kho-Kho</li>
+     </ol>
+     <!-- small roman -->
+     <ol type="i">
+        <li>Cricket</li>
+        <li>Kabbadi</li>
+        <li>Kho-Kho</li>
+     </ol>
+     <hr>
+     <h2 style="color:red;">Unordered List:</h2>
+     <!-- unordered List  -->
+     <!-- default -->
+     <ul>
+        <li>Cricket</li>
+        <li>Kabbadi</li>
+        <li>Kho-Kho</li>
+     </ul>
+     <!-- Circle -->
+     <ul type="circle">
+        <li>Cricket</li>
+        <li>Kabbadi</li>
+        <li>Kho-Kho</li>
+     </ul>
+     <!-- square -->
+     <ul type="square">
+        <li>Cricket</li>
+        <li>Kabbadi</li>
+        <li>Kho-Kho</li>
+     </ul>
+     <!--None  -->
+     <ul type="None">
+        <li>Cricket</li>
+        <li>Kabbadi</li>
+        <li>Kho-Kho</li>
+     </ul>  
+     <hr>
+     <h1 style="color:red;">Description List </h1>
+     <dl>
+        <dt>Cricket</dt>
+        <dd>- Cricket is a sport</dd>
+     </dl> 
+     <dl>
+        <dt>Kabaddi</dt>
+        <dd>- Kabaddi is a sport</dd>
+     </dl> 
+     <dl>
+        <dt>Kho-Kho</dt>
+        <dd>- Kho-Kho is a sport</dd>
+     </dl>  
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <title>practicle 2</title>
+</head>
+<body>
+    <h1>
+        Let's learn all the Formatting Tags
+    </h1>
+    <hr>
+    <p> 
+        <i>The text is Itallic</i><br>
+        <em>The text is Emphisized</em><br><br>
+        <b>This is a Bold Tag</b><br>
+        <strong>The text is Important</strong><br><br>
+        <n>Normal text looks like</n><br><br>
+        <small>Small text looks like</small><br><br>
+        <marK>The text is Marked</marK><br><br>
+        <p>
+            We Can Always insert <u>new text</u> instead of<delete>old one</delete>
+        </p><br><br>
+        <delete>Some text deleted</delete><br><br>
+        <sub> This is subscripted text</sub><br><br>
+        <sup>This is subscripted text</sup>
+    </p>   
+</body>
+</html>

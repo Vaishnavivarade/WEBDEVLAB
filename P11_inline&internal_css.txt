@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>practical 11</title>
+<style>
+       div{
+        background-color:aquamarine;
+        color: greenyellow;
+        font-size: 52px;
+        text-align: center;
+        margin-top: 45px;
+        margin-left:300px;
+        margin-right:300px;
+        border: 4px solid;
+       }
+</style>
+</head>
+<body>
+     <h1 style="background-color:cornflowerblue;color: brown;text-align: center;">MYSelf Vaishnavi <br>
+    You May Connect to me Through Below Links
+     </h1>
+     <div>
+        <a href="https://www.linkedin.com/in/vaishnavi-varade-a250b0252/">
+            LinkedIn
+        </a>
+     </div>
+     <div>
+        <a href="https://github.com/Vaishnavivarade">
+            Github
+        </a>
+     </div>
+     <div>
+        <a href="https://www.google.com/intl/en_in/gmail/about/">
+          Email
+        </a>
+     </div>    
+</body>
+</html>
